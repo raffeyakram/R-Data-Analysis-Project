@@ -1,0 +1,16 @@
+Ignore R session and history files
+.Rhistory
+.RData
+.Rproj
+Ignore generated output files (uncomment if you generate and save plots)
+*.png
+*.jpg
+Ignore temporary R files
+.Renviron
+.Rprofile
+*.rds
+*.Rout
+Operating system files
+.DS_Store
+Thumbs.db
+this is what i need to write in that?
